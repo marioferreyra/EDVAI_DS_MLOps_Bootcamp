@@ -1,0 +1,122 @@
+#1
+Introducción a Ciencia de Datos desde 0
+
+¿Qué es la ciencia de datos, machine learning e IA? ¿Para qué se utilizan?
+¿Cómo se encara un proyecto utilizando machine learning?
+
+Temario:
+1 - Introducción a la ciencia de datos y machine learning (ML)
+2 - Relación entre ML e IA
+3 - Tipos de problemas más comunes
+4 - Ciclo de vida de un proyecto en ML
+
+-------------------------------------------------------------------------------
+
+#2
+Repaso de SQL para Ciencia de Datos
+
+Revisión de los elementos, operadores y sentencias de SQL fundamentales para el rol de data scientist.
+
+Temario:
+1 - Consulta: select - where
+2 - Agrupación: group by - having
+3 - Uniendo conjuntos de datos: union y joins
+4 - Vistas y tablas temporales
+
+-------------------------------------------------------------------------------
+
+#3
+Análisis Exploratorio de Datos
+
+Primer acercamiento a tus datos para comprender un dataset.
+
+Temario:
+1 - Conceptos sobre análisis cuantitativo (percentiles, métricas de dispersión, etc)
+2 - Descripción de datasets
+3 - Gráficos
+4 - Análisis exploratorio para modelos predictivos y storytelling
+
+-------------------------------------------------------------------------------
+
+#4
+Preparación de Datos
+
+Tratamiento de los datos para aprovecharlos al máximo y evitar a conclusiones erróneas.
+
+Temario:
+1 - Preparación de nulos
+2 - Sesgos al hacer imputación de nulos
+3 - Preparación de valores outlier
+4 - Uso de pandas y de transformers para crear pipelines de datos
+5 - Preparación de datos orientada a modelos en producción
+6 - Entendimiento del tipo de dato para Machine Learning
+7 - Conversión de tipos de datos
+
+-------------------------------------------------------------------------------
+
+#5
+Modelos de clasificación, regresión y clustering
+
+Explora los modelos más usados en machine learning para explicar y predecir comportamiento.
+
+Temario:
+1 - Introducción y esencia de clasificación y regresión
+2 - Modelo de regresión
+3 - Modelos más usados: xgboost, random forest y regresión logística
+4 - Modelo de segmentación automática o clustering
+
+-------------------------------------------------------------------------------
+
+# 6
+MLops
+
+Aprende qué es MLOps y por qué es importante al momento de llevar nuestros modelos a producción.
+
+Conoce diferentes herramientas y tecnologías para desplegar tu solución.
+
+Temario:
+1 - Introducción a MLops, y su relación con Data Science
+2 - Breve introducción a pipelines de datos (teóricos)
+3 - Uso de MLflow para monitoreo de métricas
+4 - Breve introducción a Airflow para proyectos data science
+5 - MLops con Azure Introducción a REST. Protocolo http, GET/POST. JSON
+6 - Despliegue de modelo ML con HuggingFace/Gradio CI/ CD para ML
+
+-------------------------------------------------------------------------------
+
+#7
+Validación de modelos
+
+Conoce cómo validar tus modelos de machine learning.
+
+Temario:
+1 - Validación de modelos de clasificación y regresión
+2 - Métricas más conocidas de error, y su interpretación
+3 - Validación como actividad continua en MLops
+
+-------------------------------------------------------------------------------
+
+#8
+Github y Docker para Data Scientists
+
+Qué es y cómo utilizar Github y Docker para proyectos de machine learning.
+
+Temario:
+1 - Introducción, comandos y workflows de trabajo con Github
+2 - Docker, introducción, necesidad y comandos básicos
+3 - Docker para disponibilización de una API de machine learning
+
+-------------------------------------------------------------------------------
+
+#9
+Creación de un producto mínimo viable (MVP)
+
+Cómo crear una solución que sea funcionalmente útil, que aporte valor al negocio y resuelva un problema.
+
+Temario:
+1 - Etapas de un producto mínimo viable
+2 - Entendimiento de necesidad de negocio
+3 - Relación entre problemas de negocio y su solución a través de IA
+4 - Presentación del proyecto según objetivo de negocio
+
+-------------------------------------------------------------------------------
