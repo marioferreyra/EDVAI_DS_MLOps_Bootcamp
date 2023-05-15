@@ -12,3 +12,4 @@ scikit-image
 scikit-learn
 # funpymodeling
 yellowbrick
+gradio
