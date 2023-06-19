@@ -13,3 +13,6 @@ scikit-learn
 # funpymodeling
 yellowbrick
 gradio
+minepy
+pandas-profiling
+ipywidgets
