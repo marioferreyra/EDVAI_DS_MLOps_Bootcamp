@@ -13,7 +13,7 @@ app = FastAPI()
 HOST = '127.0.0.1'
 PORT = 7860
 
-THRESHOLD = 0.39
+THRESHOLD = 0.37
 MAIN_FOLDER = os.path.dirname(__file__)
 
 # Model

@@ -30,7 +30,7 @@ PARAMS_NAME = [
     "sameCity",
 ]
 
-THRESHOLD = 0.44
+THRESHOLD = 0.37
 MAIN_FOLDER = os.path.dirname(__file__)
 
 # Model

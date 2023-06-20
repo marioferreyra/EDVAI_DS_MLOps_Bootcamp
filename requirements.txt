@@ -16,3 +16,4 @@ gradio
 minepy
 pandas-profiling
 ipywidgets
+mlflow
