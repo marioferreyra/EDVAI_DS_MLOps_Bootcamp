@@ -1,0 +1,654 @@
+fraudulent,transactionAmount,transactionFailed,orderAmount,orderState,paymentMethodRegistrationFailure,paymentMethodType,paymentMethodProvider,paymentMethodIssuer,emailDomain,emailProvider,customerIPAddressSimplified,sameCity
+False,18.0,False,18.0,pending,True,card,JCB 16 digit,Citizens First Banks,com,yahoo,only_letters,yes
+False,26.0,False,26.0,fulfilled,True,card,JCB 16 digit,Citizens First Banks,com,yahoo,only_letters,yes
+True,45.0,False,45.0,fulfilled,False,bitcoin,American Express,Bastion Banks,com,yahoo,only_letters,no
+True,23.0,False,23.0,fulfilled,False,bitcoin,American Express,Bastion Banks,com,yahoo,only_letters,yes
+True,43.0,True,43.0,fulfilled,True,bitcoin,VISA 16 digit,Solace Banks,com,yahoo,only_letters,no
+False,33.0,False,33.0,failed,False,card,JCB 16 digit,Bastion Banks,com,yahoo,digits_and_letters,yes
+False,24.0,True,24.0,fulfilled,False,card,JCB 16 digit,Bastion Banks,com,yahoo,digits_and_letters,yes
+False,24.0,False,24.0,fulfilled,False,card,JCB 16 digit,Bastion Banks,com,yahoo,digits_and_letters,yes
+False,25.0,True,25.0,fulfilled,False,card,Discover,His Majesty Bank Corp.,com,yahoo,digits_and_letters,no
+False,25.0,False,25.0,fulfilled,False,card,JCB 16 digit,Bastion Banks,com,yahoo,digits_and_letters,no
+False,34.0,False,34.0,fulfilled,False,card,Voyager,Grand Credit Corporation,com,yahoo,digits_and_letters,yes
+False,26.0,False,26.0,fulfilled,False,card,Voyager,Grand Credit Corporation,com,yahoo,digits_and_letters,yes
+False,25.0,False,25.0,fulfilled,False,card,Voyager,Grand Credit Corporation,com,yahoo,digits_and_letters,no
+True,71.0,False,71.0,fulfilled,False,card,VISA 13 digit,Grand Credit Corporation,com,other,only_letters,yes
+True,66.0,True,66.0,fulfilled,False,card,JCB 16 digit,Bastion Banks,com,other,only_letters,yes
+True,69.0,False,69.0,failed,False,card,JCB 16 digit,Bastion Banks,com,other,only_letters,yes
+True,46.0,True,46.0,fulfilled,False,apple pay,VISA 16 digit,His Majesty Bank Corp.,com,other,only_letters,no
+True,68.0,False,68.0,fulfilled,False,card,JCB 16 digit,Solace Banks,com,other,only_letters,yes
+True,59.0,False,59.0,fulfilled,False,apple pay,VISA 16 digit,His Majesty Bank Corp.,com,other,only_letters,yes
+True,32.0,False,32.0,fulfilled,False,apple pay,American Express,Grand Credit Corporation,com,other,only_letters,yes
+True,25.0,False,25.0,pending,False,card,VISA 16 digit,p,com,other,only_letters,no
+True,40.0,True,40.0,fulfilled,False,apple pay,VISA 13 digit,x,com,other,only_letters,no
+True,40.0,False,40.0,fulfilled,False,apple pay,VISA 13 digit,x,com,other,only_letters,no
+True,65.0,True,65.0,fulfilled,False,bitcoin,Voyager,Bulwark Trust Corp.,com,gmail,only_letters,yes
+True,65.0,False,65.0,fulfilled,False,card,VISA 16 digit,Her Majesty Trust,com,gmail,only_letters,yes
+True,36.0,False,36.0,failed,False,bitcoin,Voyager,Bulwark Trust Corp.,com,gmail,only_letters,yes
+True,68.0,False,68.0,fulfilled,False,bitcoin,Voyager,Bulwark Trust Corp.,com,gmail,only_letters,yes
+True,74.0,True,74.0,fulfilled,False,card,VISA 16 digit,Her Majesty Trust,com,gmail,only_letters,no
+True,55.0,False,55.0,fulfilled,False,card,VISA 16 digit,Her Majesty Trust,com,gmail,only_letters,yes
+False,25.0,False,25.0,fulfilled,False,card,Discover,Her Majesty Trust,com,other,digits_and_letters,unknown
+False,21.0,True,21.0,pending,False,card,Discover,Her Majesty Trust,com,other,digits_and_letters,unknown
+False,21.0,True,21.0,pending,False,card,Discover,Her Majesty Trust,com,other,digits_and_letters,unknown
+False,21.0,True,21.0,pending,False,card,Discover,Her Majesty Trust,com,other,digits_and_letters,unknown
+False,21.0,False,21.0,pending,False,card,Discover,Her Majesty Trust,com,other,digits_and_letters,unknown
+True,,,,,False,paypal,Mastercard,His Majesty Bank Corp.,info,other,only_letters,unknown
+True,40.0,True,40.0,fulfilled,False,card,Discover,c,com,yahoo,only_letters,no
+True,40.0,False,40.0,fulfilled,False,card,Discover,c,com,yahoo,only_letters,no
+True,18.0,False,18.0,pending,False,card,Discover,c,com,yahoo,only_letters,yes
+True,46.0,False,46.0,failed,False,card,Discover,c,com,yahoo,only_letters,yes
+True,12.0,False,12.0,fulfilled,False,card,Discover,c,com,yahoo,only_letters,yes
+True,11.0,True,11.0,fulfilled,False,card,Discover,c,com,yahoo,only_letters,yes
+False,12.0,False,12.0,fulfilled,False,card,Discover,Vertex Bancorp,com,hotmail,only_letters,no
+False,30.0,False,30.0,fulfilled,False,card,American Express,Bastion Banks,com,hotmail,only_letters,no
+False,49.0,True,49.0,fulfilled,False,card,Discover,Vertex Bancorp,com,hotmail,only_letters,yes
+False,49.0,False,49.0,fulfilled,False,card,VISA 13 digit,Her Majesty Trust,com,hotmail,only_letters,yes
+False,45.0,True,45.0,fulfilled,False,card,VISA 13 digit,Her Majesty Trust,com,hotmail,only_letters,yes
+False,28.0,True,28.0,fulfilled,False,card,VISA 13 digit,Her Majesty Trust,com,hotmail,only_letters,yes
+False,28.0,False,28.0,fulfilled,False,bitcoin,Maestro,Vertex Bancorp,com,hotmail,only_letters,yes
+False,10.0,False,10.0,fulfilled,False,bitcoin,VISA 16 digit,Citizens First Banks,org,other,digits_and_letters,unknown
+False,45.0,False,45.0,pending,False,card,VISA 16 digit,Vertex Bancorp,org,other,digits_and_letters,yes
+False,46.0,False,46.0,fulfilled,False,card,VISA 16 digit,Vertex Bancorp,org,other,digits_and_letters,no
+False,16.0,False,16.0,fulfilled,False,card,VISA 16 digit,Vertex Bancorp,org,other,digits_and_letters,no
+False,43.0,True,43.0,fulfilled,False,card,Mastercard,Her Majesty Trust,com,other,only_letters,unknown
+False,43.0,False,43.0,fulfilled,False,card,Mastercard,Her Majesty Trust,com,other,only_letters,unknown
+False,34.0,True,34.0,fulfilled,False,card,Mastercard,Her Majesty Trust,com,other,only_letters,no
+False,34.0,False,34.0,fulfilled,False,card,Mastercard,Her Majesty Trust,com,other,only_letters,no
+False,19.0,False,19.0,failed,False,card,VISA 16 digit,Solace Banks,info,other,digits_and_letters,yes
+False,46.0,False,46.0,fulfilled,False,card,VISA 16 digit,Solace Banks,info,other,digits_and_letters,yes
+False,39.0,False,39.0,fulfilled,False,card,VISA 16 digit,Solace Banks,info,other,digits_and_letters,yes
+False,35.0,False,35.0,fulfilled,False,card,VISA 16 digit,Solace Banks,info,other,digits_and_letters,yes
+False,46.0,False,46.0,failed,False,card,VISA 16 digit,Solace Banks,info,other,digits_and_letters,yes
+True,50.0,False,50.0,fulfilled,False,apple pay,VISA 16 digit,a,com,gmail,only_letters,no
+True,41.0,False,41.0,fulfilled,False,apple pay,VISA 16 digit,a,com,gmail,only_letters,yes
+True,44.0,False,44.0,fulfilled,False,apple pay,VISA 16 digit,a,com,gmail,only_letters,no
+True,41.0,False,41.0,fulfilled,False,apple pay,VISA 16 digit,a,com,gmail,only_letters,yes
+False,12.0,True,12.0,fulfilled,False,card,JCB 16 digit,Bastion Banks,com,yahoo,only_letters,yes
+False,12.0,False,12.0,fulfilled,False,bitcoin,JCB 16 digit,Solace Banks,com,yahoo,only_letters,yes
+False,33.0,True,33.0,fulfilled,False,card,JCB 16 digit,Bastion Banks,com,yahoo,only_letters,no
+False,33.0,True,33.0,fulfilled,False,bitcoin,JCB 16 digit,Solace Banks,com,yahoo,only_letters,no
+False,33.0,False,33.0,fulfilled,False,bitcoin,JCB 16 digit,Solace Banks,com,yahoo,only_letters,no
+False,40.0,False,40.0,fulfilled,False,card,JCB 16 digit,Bastion Banks,com,yahoo,only_letters,yes
+False,34.0,False,34.0,pending,False,card,Voyager,Fountain Financial Inc.,com,other,only_letters,yes
+False,12.0,False,12.0,fulfilled,False,card,Voyager,Fountain Financial Inc.,com,other,only_letters,yes
+False,30.0,True,30.0,fulfilled,False,card,VISA 16 digit,Her Majesty Trust,com,other,only_letters,yes
+False,30.0,True,30.0,fulfilled,False,card,Voyager,Fountain Financial Inc.,com,other,only_letters,yes
+False,30.0,False,30.0,fulfilled,False,card,Voyager,Fountain Financial Inc.,com,other,only_letters,yes
+False,22.0,False,22.0,fulfilled,False,card,VISA 16 digit,Her Majesty Trust,com,other,only_letters,yes
+False,11.0,False,11.0,fulfilled,False,card,Voyager,His Majesty Bank Corp.,com,hotmail,digits_and_letters,yes
+False,14.0,False,14.0,fulfilled,False,card,Voyager,His Majesty Bank Corp.,com,hotmail,digits_and_letters,yes
+False,37.0,False,37.0,fulfilled,False,card,JCB 16 digit,Her Majesty Trust,biz,other,only_letters,no
+False,42.0,True,42.0,fulfilled,False,card,JCB 16 digit,Her Majesty Trust,biz,other,only_letters,yes
+False,42.0,False,42.0,fulfilled,False,card,JCB 16 digit,Her Majesty Trust,biz,other,only_letters,yes
+False,11.0,False,11.0,fulfilled,False,card,JCB 16 digit,Her Majesty Trust,biz,other,only_letters,yes
+False,29.0,False,29.0,fulfilled,False,card,JCB 16 digit,Her Majesty Trust,biz,other,only_letters,yes
+False,31.0,False,31.0,fulfilled,False,paypal,JCB 16 digit,Rose Bancshares,net,other,only_letters,yes
+False,33.0,False,33.0,failed,False,card,American Express,Citizens First Banks,com,other,only_letters,yes
+False,47.0,True,47.0,fulfilled,False,card,American Express,Citizens First Banks,com,other,only_letters,yes
+False,47.0,False,47.0,fulfilled,False,apple pay,Mastercard,His Majesty Bank Corp.,com,other,only_letters,yes
+False,25.0,False,25.0,fulfilled,False,card,American Express,Citizens First Banks,com,other,only_letters,yes
+False,25.0,True,25.0,fulfilled,False,apple pay,Mastercard,His Majesty Bank Corp.,com,other,only_letters,yes
+False,25.0,False,25.0,fulfilled,False,card,American Express,Citizens First Banks,com,other,only_letters,yes
+False,33.0,False,33.0,fulfilled,True,bitcoin,Diners Club / Carte Blanche,Rose Bancshares,com,hotmail,only_letters,yes
+False,48.0,False,48.0,failed,True,bitcoin,Diners Club / Carte Blanche,Rose Bancshares,com,hotmail,only_letters,yes
+False,11.0,True,11.0,fulfilled,True,bitcoin,Diners Club / Carte Blanche,Rose Bancshares,com,hotmail,only_letters,yes
+False,11.0,False,11.0,fulfilled,True,bitcoin,Diners Club / Carte Blanche,Rose Bancshares,com,hotmail,only_letters,yes
+True,,,,,False,paypal,VISA 13 digit, ,com,hotmail,only_letters,unknown
+False,23.0,False,23.0,fulfilled,False,card,VISA 16 digit,His Majesty Bank Corp.,com,yahoo,digits_and_letters,yes
+False,38.0,False,38.0,fulfilled,True,card,American Express,Vertex Bancorp,biz,other,only_letters,yes
+False,12.0,True,12.0,fulfilled,False,card,VISA 16 digit,Grand Credit Corporation,biz,other,only_letters,yes
+False,12.0,True,12.0,fulfilled,True,card,American Express,Vertex Bancorp,biz,other,only_letters,yes
+False,12.0,False,12.0,fulfilled,True,card,American Express,Vertex Bancorp,biz,other,only_letters,yes
+False,15.0,True,15.0,failed,False,card,VISA 16 digit,Grand Credit Corporation,biz,other,only_letters,yes
+False,15.0,False,15.0,failed,False,card,VISA 16 digit,Grand Credit Corporation,biz,other,only_letters,yes
+False,11.0,False,11.0,fulfilled,True,card,American Express,Vertex Bancorp,biz,other,only_letters,yes
+False,39.0,False,39.0,failed,False,card,VISA 16 digit,Grand Credit Corporation,biz,other,only_letters,no
+False,19.0,True,19.0,fulfilled,False,paypal,Maestro,Solace Banks,com,gmail,only_letters,yes
+False,19.0,False,19.0,fulfilled,False,paypal,Maestro,Solace Banks,com,gmail,only_letters,yes
+False,45.0,False,45.0,fulfilled,False,card,Maestro,Vertex Bancorp,com,other,digits_and_letters,unknown
+False,50.0,False,50.0,fulfilled,False,card,Maestro,Vertex Bancorp,com,other,digits_and_letters,unknown
+False,42.0,False,42.0,fulfilled,False,card,Maestro,Vertex Bancorp,com,other,digits_and_letters,unknown
+False,10.0,False,10.0,fulfilled,False,card,Maestro,Vertex Bancorp,com,other,digits_and_letters,unknown
+False,30.0,True,30.0,fulfilled,False,card,Maestro,Vertex Bancorp,com,other,digits_and_letters,unknown
+False,30.0,False,30.0,fulfilled,False,card,Maestro,Vertex Bancorp,com,other,digits_and_letters,unknown
+False,48.0,True,48.0,failed,False,card,VISA 16 digit,Vertex Bancorp,com,yahoo,only_letters,no
+False,48.0,False,48.0,failed,False,card,VISA 16 digit,Vertex Bancorp,com,yahoo,only_letters,no
+False,42.0,True,42.0,pending,False,card,VISA 16 digit,Vertex Bancorp,com,yahoo,only_letters,no
+False,42.0,False,42.0,pending,False,card,VISA 16 digit,Vertex Bancorp,com,yahoo,only_letters,no
+False,29.0,False,29.0,fulfilled,True,card,Maestro,Bulwark Trust Corp.,com,yahoo,only_letters,yes
+True,65.0,False,65.0,failed,False,card,Maestro,Vertex Bancorp,com,gmail,digits_and_letters,yes
+True,75.0,False,75.0,pending,False,bitcoin,VISA 13 digit,Grand Credit Corporation,com,gmail,digits_and_letters,yes
+True,58.0,True,58.0,fulfilled,False,card,Maestro,Vertex Bancorp,com,gmail,digits_and_letters,yes
+True,58.0,False,58.0,fulfilled,False,bitcoin,JCB 16 digit,Her Majesty Trust,com,gmail,digits_and_letters,yes
+True,58.0,False,58.0,fulfilled,False,card,JCB 16 digit,Fountain Financial Inc.,com,gmail,digits_and_letters,no
+False,32.0,False,32.0,fulfilled,False,card,VISA 16 digit,Fountain Financial Inc.,com,hotmail,digits_and_letters,yes
+False,36.0,False,36.0,fulfilled,False,card,VISA 16 digit,Fountain Financial Inc.,com,hotmail,digits_and_letters,yes
+False,14.0,True,14.0,fulfilled,False,card,Maestro,His Majesty Bank Corp.,com,hotmail,only_letters,yes
+False,14.0,False,14.0,fulfilled,False,card,Maestro,His Majesty Bank Corp.,com,hotmail,only_letters,yes
+False,15.0,False,15.0,fulfilled,False,card,VISA 16 digit,Citizens First Banks,com,hotmail,only_letters,yes
+False,46.0,False,46.0,fulfilled,False,card,Maestro,His Majesty Bank Corp.,com,hotmail,only_letters,yes
+False,18.0,False,18.0,fulfilled,False,card,Maestro,His Majesty Bank Corp.,com,hotmail,only_letters,yes
+False,30.0,False,30.0,failed,False,card,Maestro,His Majesty Bank Corp.,com,hotmail,only_letters,yes
+True,16.0,True,16.0,fulfilled,False,card,Voyager,Bastion Banks,weird,weird,digits_and_letters,yes
+True,16.0,False,16.0,fulfilled,False,card,Voyager,Bastion Banks,weird,weird,digits_and_letters,yes
+False,30.0,False,30.0,fulfilled,False,card,JCB 15 digit,Fountain Financial Inc.,com,hotmail,only_letters,yes
+False,38.0,False,38.0,fulfilled,False,card,JCB 15 digit,Fountain Financial Inc.,com,hotmail,only_letters,yes
+False,49.0,False,49.0,fulfilled,False,card,JCB 15 digit,Fountain Financial Inc.,com,hotmail,only_letters,yes
+False,29.0,False,29.0,fulfilled,False,card,JCB 15 digit,Fountain Financial Inc.,com,hotmail,only_letters,no
+False,,,,,,,,,com,other,digits_and_letters,unknown
+False,20.0,False,20.0,fulfilled,False,card,VISA 16 digit,Rose Bancshares,com,yahoo,digits_and_letters,yes
+False,40.0,False,40.0,fulfilled,False,card,Discover,Rose Bancshares,org,other,only_letters,yes
+False,44.0,True,44.0,fulfilled,False,apple pay,JCB 16 digit,Her Majesty Trust,com,hotmail,digits_and_letters,no
+False,44.0,False,44.0,fulfilled,False,apple pay,JCB 16 digit,Her Majesty Trust,com,hotmail,digits_and_letters,no
+False,,,,,,,,,com,other,digits_and_letters,unknown
+False,10.0,False,10.0,fulfilled,False,card,Diners Club / Carte Blanche,His Majesty Bank Corp.,com,other,only_letters,yes
+False,34.0,True,34.0,fulfilled,False,paypal,VISA 16 digit,Bastion Banks,com,other,only_letters,yes
+False,34.0,False,34.0,fulfilled,False,paypal,VISA 16 digit,Bastion Banks,com,other,only_letters,yes
+False,39.0,False,39.0,fulfilled,False,card,Diners Club / Carte Blanche,His Majesty Bank Corp.,com,other,only_letters,yes
+False,49.0,False,49.0,fulfilled,False,paypal,VISA 16 digit,Bastion Banks,com,other,only_letters,yes
+True,,,,,False,card,Diners Club / Carte Blanche,Fountain Financial Inc.,com,gmail,digits_and_letters,unknown
+False,,,,,False,card,VISA 16 digit,Solace Banks,com,other,only_letters,unknown
+False,29.0,False,29.0,fulfilled,False,card,JCB 15 digit,Bastion Banks,com,other,only_letters,unknown
+False,25.0,True,25.0,fulfilled,False,card,JCB 15 digit,Bastion Banks,com,other,only_letters,unknown
+False,25.0,False,25.0,fulfilled,False,card,JCB 15 digit,Bastion Banks,com,other,only_letters,unknown
+False,14.0,True,14.0,fulfilled,False,card,JCB 15 digit,Bastion Banks,com,other,only_letters,unknown
+False,14.0,True,14.0,fulfilled,False,card,JCB 15 digit,Bastion Banks,com,other,only_letters,unknown
+False,14.0,True,14.0,fulfilled,False,card,JCB 15 digit,Bastion Banks,com,other,only_letters,unknown
+False,14.0,True,14.0,fulfilled,False,card,JCB 15 digit,Bastion Banks,com,other,only_letters,unknown
+False,14.0,False,14.0,fulfilled,False,card,JCB 15 digit,Bastion Banks,com,other,only_letters,unknown
+False,,,,,False,card,Discover,Rose Bancshares,com,gmail,only_letters,unknown
+False,,,,,,,,,org,other,only_letters,unknown
+True,32.0,True,32.0,failed,False,card,American Express,Rose Bancshares,com,gmail,only_letters,yes
+True,32.0,False,32.0,failed,False,card,American Express,Rose Bancshares,com,gmail,only_letters,yes
+True,21.0,False,21.0,fulfilled,False,card,American Express,Rose Bancshares,com,gmail,only_letters,yes
+True,10.0,True,10.0,fulfilled,False,card,Discover,Bulwark Trust Corp.,biz,other,only_letters,yes
+True,10.0,True,10.0,fulfilled,False,card,Discover,Bulwark Trust Corp.,biz,other,only_letters,yes
+True,10.0,False,10.0,fulfilled,False,card,VISA 13 digit,His Majesty Bank Corp.,biz,other,only_letters,yes
+True,11.0,True,11.0,fulfilled,False,card,Discover,Bulwark Trust Corp.,biz,other,only_letters,no
+True,11.0,False,11.0,fulfilled,False,card,Discover,Bulwark Trust Corp.,biz,other,only_letters,no
+True,47.0,True,47.0,fulfilled,False,card,Discover,Bulwark Trust Corp.,biz,other,only_letters,no
+True,47.0,False,47.0,fulfilled,False,card,VISA 13 digit,His Majesty Bank Corp.,biz,other,only_letters,no
+False,,,,,,,,,com,yahoo,only_letters,unknown
+False,50.0,False,50.0,fulfilled,False,paypal,Maestro,Vertex Bancorp,com,gmail,digits_and_letters,yes
+False,39.0,False,39.0,fulfilled,False,apple pay,JCB 16 digit,Bulwark Trust Corp.,com,gmail,digits_and_letters,yes
+False,18.0,True,18.0,fulfilled,False,paypal,Maestro,Vertex Bancorp,com,gmail,digits_and_letters,no
+False,18.0,False,18.0,fulfilled,False,paypal,Maestro,Vertex Bancorp,com,gmail,digits_and_letters,no
+False,29.0,False,29.0,fulfilled,False,apple pay,JCB 16 digit,Bulwark Trust Corp.,com,gmail,digits_and_letters,yes
+False,41.0,True,41.0,pending,False,paypal,Maestro,Vertex Bancorp,com,gmail,digits_and_letters,yes
+False,41.0,False,41.0,pending,False,paypal,Maestro,Vertex Bancorp,com,gmail,digits_and_letters,yes
+False,45.0,False,45.0,fulfilled,False,paypal,JCB 16 digit,Citizens First Banks,biz,other,only_letters,yes
+False,22.0,False,22.0,fulfilled,False,paypal,JCB 16 digit,Citizens First Banks,biz,other,only_letters,no
+False,29.0,False,29.0,fulfilled,False,paypal,JCB 16 digit,Citizens First Banks,biz,other,only_letters,no
+True,51.0,True,51.0,fulfilled,False,card,VISA 16 digit,Rose Bancshares,com,gmail,only_letters,yes
+True,51.0,False,51.0,fulfilled,False,card,VISA 16 digit,Rose Bancshares,com,gmail,only_letters,yes
+True,36.0,False,36.0,fulfilled,False,card,Mastercard,Vertex Bancorp,com,gmail,only_letters,no
+True,60.0,False,60.0,fulfilled,False,card,Mastercard,Vertex Bancorp,com,gmail,only_letters,unknown
+True,52.0,False,52.0,fulfilled,False,card,Mastercard,Vertex Bancorp,com,gmail,only_letters,no
+True,68.0,False,68.0,fulfilled,False,card,Mastercard,Vertex Bancorp,com,gmail,only_letters,unknown
+True,51.0,False,51.0,fulfilled,False,apple pay,JCB 16 digit,Citizens First Banks,com,gmail,only_letters,yes
+False,,,,,False,apple pay,VISA 16 digit,Her Majesty Trust,com,yahoo,digits_and_letters,unknown
+False,31.0,False,31.0,fulfilled,False,card,JCB 15 digit,Citizens First Banks,com,yahoo,digits_and_letters,yes
+False,36.0,False,36.0,fulfilled,False,card,Maestro,Solace Banks,com,yahoo,digits_and_letters,yes
+False,42.0,False,42.0,fulfilled,False,card,Maestro,Solace Banks,com,yahoo,digits_and_letters,no
+False,35.0,True,35.0,fulfilled,False,card,Maestro,Solace Banks,com,yahoo,digits_and_letters,yes
+False,35.0,False,35.0,fulfilled,False,card,Maestro,Solace Banks,com,yahoo,digits_and_letters,yes
+False,17.0,True,17.0,fulfilled,False,card,JCB 16 digit,Vertex Bancorp,com,other,only_letters,no
+False,17.0,True,17.0,fulfilled,False,card,JCB 16 digit,Vertex Bancorp,com,other,only_letters,no
+False,17.0,True,17.0,fulfilled,False,card,JCB 16 digit,Citizens First Banks,com,other,only_letters,no
+False,17.0,False,17.0,fulfilled,False,card,JCB 16 digit,Citizens First Banks,com,other,only_letters,no
+False,33.0,False,33.0,failed,False,card,JCB 16 digit,Citizens First Banks,com,other,only_letters,no
+False,,,,,,,,,com,gmail,digits_and_letters,unknown
+True,353.0,True,353.0,fulfilled,False,card,VISA 16 digit,Her Majesty Trust,com,yahoo,only_letters,yes
+False,17.0,False,17.0,fulfilled,False,card,Voyager,Fountain Financial Inc.,biz,other,digits_and_letters,no
+False,24.0,True,24.0,fulfilled,True,card,Maestro,His Majesty Bank Corp.,biz,other,digits_and_letters,yes
+False,24.0,False,24.0,fulfilled,False,card,Voyager,Fountain Financial Inc.,biz,other,digits_and_letters,yes
+False,35.0,False,35.0,pending,True,card,Maestro,His Majesty Bank Corp.,biz,other,digits_and_letters,yes
+False,32.0,False,32.0,fulfilled,True,card,Maestro,His Majesty Bank Corp.,biz,other,digits_and_letters,yes
+False,36.0,True,36.0,fulfilled,True,card,Maestro,His Majesty Bank Corp.,biz,other,digits_and_letters,yes
+False,36.0,True,36.0,fulfilled,False,card,Voyager,Fountain Financial Inc.,biz,other,digits_and_letters,yes
+False,36.0,True,36.0,fulfilled,True,card,Maestro,His Majesty Bank Corp.,biz,other,digits_and_letters,yes
+True,41.0,False,41.0,fulfilled,False,card,JCB 16 digit,Her Majesty Trust,com,gmail,only_letters,no
+False,19.0,True,19.0,failed,False,card,JCB 16 digit,Vertex Bancorp,com,gmail,digits_and_letters,no
+False,19.0,False,19.0,failed,False,card,JCB 16 digit,Vertex Bancorp,com,gmail,digits_and_letters,no
+False,20.0,False,20.0,fulfilled,False,card,JCB 16 digit,Vertex Bancorp,com,gmail,digits_and_letters,yes
+False,37.0,True,37.0,fulfilled,False,card,Mastercard,Grand Credit Corporation,com,hotmail,only_letters,yes
+False,37.0,True,37.0,fulfilled,False,card,Mastercard,Grand Credit Corporation,com,hotmail,only_letters,yes
+False,37.0,False,37.0,fulfilled,False,card,Mastercard,Grand Credit Corporation,com,hotmail,only_letters,yes
+False,14.0,False,14.0,fulfilled,False,card,Mastercard,Grand Credit Corporation,com,hotmail,only_letters,no
+False,49.0,False,49.0,fulfilled,False,card,Mastercard,Grand Credit Corporation,com,hotmail,only_letters,yes
+False,43.0,False,43.0,fulfilled,False,card,Mastercard,Grand Credit Corporation,com,hotmail,only_letters,yes
+True,31.0,False,31.0,fulfilled,False,card,VISA 16 digit,Her Majesty Trust,com,other,only_letters,no
+True,46.0,False,46.0,fulfilled,False,card,American Express,Grand Credit Corporation,com,other,only_letters,yes
+True,16.0,False,16.0,fulfilled,False,card,American Express,Grand Credit Corporation,com,other,only_letters,yes
+True,15.0,False,15.0,fulfilled,False,card,Diners Club / Carte Blanche,Citizens First Banks,com,other,only_letters,no
+False,18.0,False,18.0,failed,False,paypal,JCB 16 digit,His Majesty Bank Corp.,com,yahoo,digits_and_letters,unknown
+False,16.0,False,16.0,fulfilled,False,paypal,JCB 16 digit,His Majesty Bank Corp.,com,yahoo,digits_and_letters,yes
+False,39.0,False,39.0,pending,False,paypal,JCB 16 digit,His Majesty Bank Corp.,com,yahoo,digits_and_letters,unknown
+False,37.0,False,37.0,fulfilled,False,card,American Express,Grand Credit Corporation,com,yahoo,digits_and_letters,no
+True,12.0,False,12.0,failed,False,card,VISA 16 digit,Citizens First Banks,weird,weird,digits_and_letters,yes
+True,48.0,True,48.0,failed,False,card,VISA 16 digit,Citizens First Banks,weird,weird,digits_and_letters,yes
+True,48.0,False,48.0,failed,False,card,VISA 16 digit,Citizens First Banks,weird,weird,digits_and_letters,yes
+True,41.0,False,41.0,fulfilled,False,card,VISA 16 digit,Citizens First Banks,weird,weird,digits_and_letters,yes
+True,29.0,False,29.0,fulfilled,False,card,VISA 16 digit,Citizens First Banks,weird,weird,digits_and_letters,yes
+True,22.0,False,22.0,fulfilled,False,paypal,VISA 13 digit,Fountain Financial Inc.,weird,weird,digits_and_letters,yes
+False,44.0,False,44.0,fulfilled,False,card,American Express,Bastion Banks,com,yahoo,only_letters,yes
+False,43.0,True,43.0,failed,False,card,American Express,Bastion Banks,com,yahoo,only_letters,yes
+False,43.0,True,43.0,failed,False,card,American Express,Bastion Banks,com,yahoo,only_letters,yes
+False,41.0,False,41.0,fulfilled,False,card,American Express,Bastion Banks,com,yahoo,only_letters,yes
+False,16.0,True,16.0,fulfilled,False,card,American Express,Bastion Banks,com,yahoo,only_letters,yes
+False,16.0,True,16.0,fulfilled,False,card,American Express,Bastion Banks,com,yahoo,only_letters,yes
+False,16.0,False,16.0,fulfilled,False,card,American Express,Bastion Banks,com,yahoo,only_letters,yes
+True,37.0,False,37.0,failed,False,card,Voyager,r,com,gmail,digits_and_letters,yes
+True,31.0,True,31.0,fulfilled,False,card,Voyager,r,com,gmail,digits_and_letters,no
+True,31.0,False,31.0,fulfilled,False,card,Voyager,r,com,gmail,digits_and_letters,no
+True,24.0,True,24.0,fulfilled,False,bitcoin,Discover,B,com,gmail,digits_and_letters,yes
+True,24.0,False,24.0,fulfilled,False,bitcoin,Discover,B,com,gmail,digits_and_letters,yes
+True,11.0,True,11.0,fulfilled,False,card,VISA 16 digit,Rose Bancshares,com,gmail,digits_and_letters,yes
+True,11.0,False,11.0,fulfilled,False,card,VISA 16 digit,Rose Bancshares,com,gmail,digits_and_letters,yes
+True,42.0,False,42.0,fulfilled,False,card,VISA 16 digit,Rose Bancshares,com,gmail,digits_and_letters,no
+True,37.0,False,37.0,fulfilled,False,card,VISA 16 digit,Rose Bancshares,com,gmail,digits_and_letters,yes
+True,30.0,True,30.0,fulfilled,False,card,VISA 16 digit,Rose Bancshares,com,gmail,digits_and_letters,yes
+True,30.0,False,30.0,fulfilled,False,card,VISA 16 digit,Rose Bancshares,com,gmail,digits_and_letters,yes
+True,12.0,False,12.0,fulfilled,False,card,VISA 16 digit,Rose Bancshares,com,gmail,digits_and_letters,no
+False,16.0,True,16.0,fulfilled,True,bitcoin,Discover,Bulwark Trust Corp.,com,other,only_letters,no
+False,,,,,False,card,Discover,Her Majesty Trust,net,other,only_letters,unknown
+True,14.0,False,14.0,fulfilled,False,card,Diners Club / Carte Blanche,Bulwark Trust Corp.,com,other,digits_and_letters,no
+True,23.0,False,23.0,fulfilled,False,card,Diners Club / Carte Blanche,Bulwark Trust Corp.,com,other,digits_and_letters,yes
+True,50.0,False,50.0,fulfilled,False,card,Mastercard,His Majesty Bank Corp.,com,other,digits_and_letters,no
+False,34.0,False,34.0,fulfilled,True,bitcoin,Discover,Fountain Financial Inc.,info,other,digits_and_letters,yes
+False,43.0,True,43.0,fulfilled,True,bitcoin,Discover,Fountain Financial Inc.,info,other,digits_and_letters,yes
+False,43.0,False,43.0,fulfilled,True,bitcoin,Discover,Fountain Financial Inc.,info,other,digits_and_letters,yes
+False,15.0,False,15.0,failed,True,bitcoin,Discover,Fountain Financial Inc.,info,other,digits_and_letters,no
+False,48.0,True,48.0,fulfilled,True,bitcoin,Discover,Fountain Financial Inc.,info,other,digits_and_letters,yes
+False,48.0,False,48.0,fulfilled,True,bitcoin,Discover,Fountain Financial Inc.,info,other,digits_and_letters,yes
+False,,,,,,,,,com,hotmail,only_letters,unknown
+False,45.0,False,45.0,fulfilled,False,card,Discover,Her Majesty Trust,com,yahoo,digits_and_letters,unknown
+False,13.0,False,13.0,fulfilled,False,card,Discover,Her Majesty Trust,com,yahoo,digits_and_letters,unknown
+False,14.0,False,14.0,fulfilled,False,card,Discover,Her Majesty Trust,com,yahoo,digits_and_letters,unknown
+False,49.0,True,49.0,pending,False,card,Maestro,His Majesty Bank Corp.,org,other,digits_and_letters,no
+False,49.0,False,49.0,pending,False,card,VISA 16 digit,Bulwark Trust Corp.,org,other,digits_and_letters,no
+False,25.0,False,25.0,fulfilled,False,card,VISA 16 digit,Bulwark Trust Corp.,org,other,digits_and_letters,yes
+False,41.0,True,41.0,fulfilled,False,card,Voyager,Her Majesty Trust,org,other,digits_and_letters,yes
+False,41.0,False,41.0,fulfilled,False,card,Maestro,His Majesty Bank Corp.,org,other,digits_and_letters,yes
+False,25.0,True,25.0,fulfilled,False,card,Voyager,Her Majesty Trust,org,other,digits_and_letters,no
+False,45.0,False,45.0,failed,False,card,VISA 16 digit,Bulwark Trust Corp.,org,other,digits_and_letters,yes
+False,15.0,False,15.0,fulfilled,True,card,Maestro,Citizens First Banks,com,gmail,only_letters,yes
+False,34.0,False,34.0,fulfilled,True,card,Maestro,Citizens First Banks,com,gmail,only_letters,yes
+False,22.0,False,22.0,fulfilled,False,card,VISA 16 digit,Grand Credit Corporation,com,yahoo,digits_and_letters,yes
+False,21.0,True,21.0,fulfilled,True,card,Diners Club / Carte Blanche,Solace Banks,com,yahoo,digits_and_letters,yes
+False,21.0,False,21.0,fulfilled,True,card,Diners Club / Carte Blanche,Solace Banks,com,yahoo,digits_and_letters,yes
+False,35.0,False,35.0,fulfilled,False,card,VISA 16 digit,Grand Credit Corporation,com,yahoo,digits_and_letters,no
+False,20.0,False,20.0,fulfilled,False,card,VISA 16 digit,Grand Credit Corporation,com,yahoo,digits_and_letters,yes
+False,41.0,False,41.0,fulfilled,False,card,Voyager,Her Majesty Trust,com,gmail,only_letters,yes
+False,34.0,True,34.0,fulfilled,False,card,Voyager,Her Majesty Trust,com,gmail,only_letters,no
+False,34.0,True,34.0,fulfilled,False,card,Voyager,Her Majesty Trust,com,gmail,only_letters,no
+False,34.0,False,34.0,fulfilled,False,card,Voyager,Her Majesty Trust,com,gmail,only_letters,no
+False,32.0,False,32.0,fulfilled,False,card,Voyager,Her Majesty Trust,com,gmail,only_letters,yes
+False,,,,,False,card,JCB 16 digit,Bulwark Trust Corp.,net,other,digits_and_letters,unknown
+False,13.0,False,13.0,fulfilled,False,bitcoin,VISA 16 digit,Vertex Bancorp,com,other,only_letters,no
+False,10.0,False,10.0,fulfilled,False,bitcoin,VISA 16 digit,Vertex Bancorp,com,other,only_letters,yes
+False,18.0,False,18.0,fulfilled,False,bitcoin,VISA 16 digit,Vertex Bancorp,com,other,only_letters,yes
+True,46.0,False,46.0,fulfilled,True,apple pay,American Express,Bastion Banks,com,other,only_letters,yes
+True,72.0,False,72.0,fulfilled,False,apple pay,Diners Club / Carte Blanche,Citizens First Banks,com,other,only_letters,yes
+True,50.0,False,50.0,fulfilled,True,apple pay,American Express,Bastion Banks,com,other,only_letters,yes
+True,42.0,True,42.0,failed,False,apple pay,Diners Club / Carte Blanche,Citizens First Banks,com,other,only_letters,yes
+True,42.0,False,42.0,failed,True,apple pay,American Express,Bastion Banks,com,other,only_letters,yes
+True,56.0,False,56.0,fulfilled,False,apple pay,Diners Club / Carte Blanche,Citizens First Banks,com,other,only_letters,yes
+True,30.0,False,30.0,pending,False,apple pay,Diners Club / Carte Blanche,Citizens First Banks,com,other,only_letters,no
+True,40.0,False,40.0,fulfilled,False,card,JCB 16 digit,Bulwark Trust Corp.,com,gmail,only_letters,yes
+True,34.0,False,34.0,fulfilled,False,card,JCB 16 digit,Bulwark Trust Corp.,com,gmail,only_letters,yes
+True,47.0,False,47.0,fulfilled,True,card,American Express,Solace Banks,com,other,only_letters,yes
+True,31.0,False,31.0,fulfilled,False,card,Voyager,Citizens First Banks,com,other,only_letters,no
+True,28.0,False,28.0,fulfilled,False,apple pay,VISA 13 digit,Fountain Financial Inc.,com,other,only_letters,yes
+True,11.0,False,11.0,fulfilled,True,card,American Express,Solace Banks,com,other,only_letters,no
+False,27.0,True,27.0,fulfilled,False,apple pay,VISA 13 digit,Vertex Bancorp,com,hotmail,digits_and_letters,yes
+False,27.0,False,27.0,fulfilled,False,card,Voyager,Her Majesty Trust,com,hotmail,digits_and_letters,yes
+False,19.0,False,19.0,fulfilled,False,apple pay,VISA 13 digit,Vertex Bancorp,com,hotmail,digits_and_letters,yes
+False,17.0,False,17.0,fulfilled,False,apple pay,VISA 13 digit,Vertex Bancorp,com,hotmail,digits_and_letters,yes
+False,27.0,True,27.0,fulfilled,False,apple pay,VISA 13 digit,Vertex Bancorp,com,hotmail,digits_and_letters,yes
+True,,,,,False,card,Discover,c,com,other,only_letters,unknown
+True,,,,,False,bitcoin,VISA 13 digit, ,com,other,only_letters,unknown
+True,46.0,False,46.0,fulfilled,False,card,Mastercard,Rose Bancshares,org,other,digits_and_letters,yes
+True,46.0,False,46.0,pending,False,card,Mastercard,Rose Bancshares,org,other,digits_and_letters,yes
+True,59.0,True,59.0,fulfilled,False,card,JCB 15 digit,Bulwark Trust Corp.,com,other,only_letters,no
+True,59.0,False,59.0,fulfilled,False,card,JCB 15 digit,Bulwark Trust Corp.,com,other,only_letters,no
+True,71.0,False,71.0,fulfilled,False,card,JCB 15 digit,Bulwark Trust Corp.,com,other,only_letters,yes
+True,75.0,False,75.0,fulfilled,False,card,JCB 15 digit,Bulwark Trust Corp.,com,other,only_letters,yes
+True,56.0,True,56.0,fulfilled,False,card,JCB 15 digit,Bulwark Trust Corp.,com,other,only_letters,yes
+True,56.0,False,56.0,fulfilled,False,card,JCB 15 digit,Bulwark Trust Corp.,com,other,only_letters,yes
+True,48.0,False,48.0,pending,False,card,JCB 15 digit,Bulwark Trust Corp.,com,other,only_letters,yes
+True,55.0,False,55.0,fulfilled,False,card,JCB 15 digit,Bulwark Trust Corp.,com,other,only_letters,no
+True,67.0,True,67.0,pending,False,card,JCB 15 digit,Bulwark Trust Corp.,com,other,only_letters,yes
+True,67.0,False,67.0,pending,False,card,JCB 15 digit,Bulwark Trust Corp.,com,other,only_letters,yes
+True,40.0,False,40.0,failed,False,card,JCB 15 digit,Bulwark Trust Corp.,com,other,only_letters,yes
+True,70.0,False,70.0,fulfilled,True,card,JCB 16 digit,Fountain Financial Inc.,org,other,only_letters,yes
+True,52.0,False,52.0,fulfilled,False,card,JCB 16 digit,Solace Banks,org,other,only_letters,yes
+True,73.0,False,73.0,fulfilled,True,card,JCB 16 digit,Fountain Financial Inc.,org,other,only_letters,yes
+True,43.0,False,43.0,failed,False,card,JCB 16 digit,Solace Banks,org,other,only_letters,yes
+True,45.0,False,45.0,fulfilled,True,card,JCB 16 digit,Fountain Financial Inc.,org,other,only_letters,no
+False,,,,,False,paypal,Maestro,Solace Banks,com,other,digits_and_letters,unknown
+False,15.0,True,15.0,failed,False,card,Voyager,Her Majesty Trust,com,gmail,only_letters,yes
+False,15.0,False,15.0,failed,False,card,Voyager,Her Majesty Trust,com,gmail,only_letters,yes
+False,16.0,False,16.0,fulfilled,True,bitcoin,Discover,Grand Credit Corporation,com,gmail,only_letters,yes
+False,39.0,False,39.0,fulfilled,False,card,Voyager,Her Majesty Trust,com,gmail,only_letters,yes
+True,40.0,False,40.0,fulfilled,True,card,Diners Club / Carte Blanche,Vertex Bancorp,com,hotmail,only_letters,yes
+True,33.0,True,33.0,failed,False,card,Mastercard,Bulwark Trust Corp.,com,hotmail,only_letters,no
+True,33.0,False,33.0,failed,True,card,Diners Club / Carte Blanche,Vertex Bancorp,com,hotmail,only_letters,no
+True,50.0,False,50.0,fulfilled,False,card,Mastercard,Bulwark Trust Corp.,com,hotmail,only_letters,yes
+True,36.0,False,36.0,fulfilled,True,card,Diners Club / Carte Blanche,Vertex Bancorp,com,hotmail,only_letters,yes
+False,35.0,False,35.0,failed,False,paypal,VISA 16 digit,Grand Credit Corporation,com,gmail,only_letters,yes
+False,46.0,False,46.0,fulfilled,False,paypal,VISA 16 digit,Grand Credit Corporation,com,gmail,only_letters,yes
+False,49.0,False,49.0,fulfilled,False,paypal,VISA 16 digit,Grand Credit Corporation,com,gmail,only_letters,yes
+False,16.0,False,16.0,fulfilled,False,paypal,VISA 16 digit,Grand Credit Corporation,com,gmail,only_letters,yes
+True,36.0,True,36.0,fulfilled,False,card,Voyager,Grand Credit Corporation,com,hotmail,digits_and_letters,no
+True,36.0,True,36.0,fulfilled,False,card,Voyager,Grand Credit Corporation,com,hotmail,digits_and_letters,no
+True,36.0,False,36.0,fulfilled,False,card,Voyager,Grand Credit Corporation,com,hotmail,digits_and_letters,no
+True,15.0,False,15.0,fulfilled,False,card,Voyager,Grand Credit Corporation,com,hotmail,digits_and_letters,no
+True,43.0,False,43.0,fulfilled,False,card,Voyager,Grand Credit Corporation,com,hotmail,digits_and_letters,no
+True,36.0,False,36.0,fulfilled,False,card,Voyager,Grand Credit Corporation,com,hotmail,digits_and_letters,no
+False,11.0,False,11.0,fulfilled,False,card,Maestro,Rose Bancshares,com,other,only_letters,no
+False,27.0,False,27.0,fulfilled,False,card,Maestro,Rose Bancshares,com,other,only_letters,yes
+False,31.0,True,31.0,fulfilled,False,card,JCB 15 digit,Rose Bancshares,com,other,digits_and_letters,yes
+False,33.0,False,33.0,fulfilled,False,card,JCB 15 digit,Rose Bancshares,com,other,digits_and_letters,yes
+False,46.0,False,46.0,fulfilled,False,card,JCB 15 digit,Rose Bancshares,com,other,digits_and_letters,no
+False,12.0,True,12.0,fulfilled,False,card,JCB 15 digit,Rose Bancshares,com,other,digits_and_letters,no
+False,12.0,False,12.0,fulfilled,False,card,JCB 15 digit,Rose Bancshares,com,other,digits_and_letters,no
+False,32.0,False,32.0,fulfilled,False,card,JCB 15 digit,Rose Bancshares,com,other,digits_and_letters,yes
+True,20.0,False,20.0,fulfilled,False,bitcoin,Maestro,Bastion Banks,com,other,only_letters,yes
+True,21.0,True,21.0,fulfilled,False,apple pay,Diners Club / Carte Blanche,Bastion Banks,com,other,only_letters,no
+False,14.0,False,14.0,fulfilled,False,card,VISA 16 digit,Vertex Bancorp,com,other,digits_and_letters,yes
+False,22.0,False,22.0,fulfilled,False,card,VISA 16 digit,Vertex Bancorp,com,other,digits_and_letters,yes
+False,22.0,False,22.0,pending,True,paypal,JCB 16 digit,Bastion Banks,com,hotmail,only_letters,yes
+False,14.0,False,14.0,fulfilled,True,paypal,JCB 16 digit,Bastion Banks,com,hotmail,only_letters,yes
+True,,,,,False,paypal,Maestro,n,biz,other,digits_and_letters,unknown
+True,,,,,False,card,Voyager,r,biz,other,digits_and_letters,unknown
+True,,,,,False,bitcoin,Mastercard,e,biz,other,digits_and_letters,unknown
+True,36.0,False,36.0,fulfilled,False,card,JCB 16 digit,Citizens First Banks,com,hotmail,only_letters,unknown
+True,60.0,False,60.0,fulfilled,False,card,JCB 16 digit,Citizens First Banks,com,hotmail,only_letters,unknown
+True,57.0,False,57.0,fulfilled,False,card,JCB 16 digit,Citizens First Banks,com,hotmail,only_letters,unknown
+True,59.0,True,59.0,fulfilled,False,card,JCB 16 digit,Citizens First Banks,com,hotmail,only_letters,unknown
+True,64.0,True,64.0,fulfilled,False,card,JCB 16 digit,Citizens First Banks,com,hotmail,only_letters,unknown
+True,64.0,False,64.0,fulfilled,False,card,JCB 16 digit,Citizens First Banks,com,hotmail,only_letters,unknown
+True,54.0,False,54.0,fulfilled,False,card,JCB 16 digit,Citizens First Banks,com,hotmail,only_letters,unknown
+True,55.0,True,55.0,fulfilled,False,card,JCB 16 digit,Citizens First Banks,com,hotmail,only_letters,unknown
+True,55.0,False,55.0,fulfilled,False,card,JCB 16 digit,Citizens First Banks,com,hotmail,only_letters,unknown
+True,47.0,False,47.0,failed,False,card,JCB 16 digit,Citizens First Banks,com,hotmail,only_letters,unknown
+True,74.0,False,74.0,fulfilled,False,card,JCB 15 digit,His Majesty Bank Corp.,com,gmail,digits_and_letters,no
+True,57.0,False,57.0,fulfilled,False,card,Discover,His Majesty Bank Corp.,com,gmail,digits_and_letters,yes
+True,57.0,True,57.0,fulfilled,False,bitcoin,JCB 16 digit,Fountain Financial Inc.,com,gmail,digits_and_letters,no
+True,57.0,True,57.0,fulfilled,False,card,JCB 15 digit,His Majesty Bank Corp.,com,gmail,digits_and_letters,no
+True,57.0,True,57.0,fulfilled,False,card,JCB 15 digit,His Majesty Bank Corp.,com,gmail,digits_and_letters,no
+True,53.0,False,53.0,fulfilled,False,card,Discover,His Majesty Bank Corp.,com,gmail,digits_and_letters,yes
+True,61.0,False,61.0,fulfilled,False,apple pay,Voyager,Her Majesty Trust,com,gmail,digits_and_letters,no
+True,67.0,False,67.0,fulfilled,False,card,Diners Club / Carte Blanche,Bulwark Trust Corp.,com,gmail,digits_and_letters,yes
+True,47.0,False,47.0,fulfilled,False,card,Diners Club / Carte Blanche,Bulwark Trust Corp.,com,gmail,digits_and_letters,no
+True,36.0,False,36.0,fulfilled,False,card,Discover,His Majesty Bank Corp.,com,gmail,digits_and_letters,no
+True,17.0,False,17.0,fulfilled,False,card,Diners Club / Carte Blanche,e,com,other,only_letters,unknown
+True,25.0,False,25.0,fulfilled,False,card,Diners Club / Carte Blanche,e,com,other,only_letters,yes
+True,30.0,False,30.0,fulfilled,False,card,Voyager,Bulwark Trust Corp.,com,other,only_letters,yes
+False,41.0,False,41.0,fulfilled,False,apple pay,American Express,Rose Bancshares,com,yahoo,only_letters,yes
+False,10.0,False,10.0,pending,False,apple pay,American Express,Rose Bancshares,com,yahoo,only_letters,yes
+False,38.0,True,38.0,fulfilled,False,card,Diners Club / Carte Blanche,Fountain Financial Inc.,com,yahoo,only_letters,no
+False,38.0,False,38.0,fulfilled,False,apple pay,American Express,Rose Bancshares,com,yahoo,only_letters,no
+False,32.0,True,32.0,fulfilled,False,apple pay,American Express,Rose Bancshares,com,yahoo,only_letters,yes
+False,32.0,False,32.0,fulfilled,False,card,Diners Club / Carte Blanche,Bulwark Trust Corp.,com,yahoo,only_letters,yes
+False,18.0,False,18.0,fulfilled,True,card,VISA 16 digit,Fountain Financial Inc.,com,gmail,digits_and_letters,yes
+False,11.0,True,11.0,fulfilled,False,paypal,Discover,Her Majesty Trust,com,gmail,digits_and_letters,yes
+False,11.0,False,11.0,fulfilled,True,card,VISA 16 digit,Fountain Financial Inc.,com,gmail,digits_and_letters,yes
+False,47.0,False,47.0,fulfilled,True,card,VISA 16 digit,Fountain Financial Inc.,com,gmail,digits_and_letters,yes
+True,17.0,True,17.0,pending,False,card,American Express,Bulwark Trust Corp.,net,other,digits_and_letters,yes
+True,72.0,True,72.0,fulfilled,True,card,VISA 13 digit,Rose Bancshares,com,other,digits_and_letters,no
+True,72.0,True,72.0,fulfilled,True,card,VISA 13 digit,Rose Bancshares,com,other,digits_and_letters,no
+True,60.0,True,60.0,fulfilled,True,card,VISA 13 digit,Rose Bancshares,com,other,digits_and_letters,no
+True,60.0,False,60.0,fulfilled,True,card,VISA 13 digit,Rose Bancshares,com,other,digits_and_letters,no
+True,42.0,False,42.0,fulfilled,True,card,VISA 13 digit,Rose Bancshares,com,other,digits_and_letters,yes
+True,33.0,False,33.0,pending,True,card,VISA 13 digit,Rose Bancshares,com,other,digits_and_letters,no
+True,33.0,True,33.0,fulfilled,True,card,VISA 13 digit,Rose Bancshares,com,other,digits_and_letters,yes
+True,33.0,False,33.0,fulfilled,True,card,VISA 13 digit,Rose Bancshares,com,other,digits_and_letters,yes
+True,35.0,False,35.0,fulfilled,True,card,VISA 13 digit,Rose Bancshares,com,other,digits_and_letters,yes
+True,40.0,True,40.0,fulfilled,True,card,VISA 13 digit,Rose Bancshares,com,other,digits_and_letters,yes
+True,40.0,True,40.0,fulfilled,True,card,VISA 13 digit,Rose Bancshares,com,other,digits_and_letters,yes
+True,40.0,False,40.0,fulfilled,True,card,VISA 13 digit,Rose Bancshares,com,other,digits_and_letters,yes
+True,36.0,False,36.0,fulfilled,True,card,VISA 13 digit,Rose Bancshares,com,other,digits_and_letters,yes
+True,66.0,True,66.0,fulfilled,False,card,JCB 16 digit,Fountain Financial Inc.,com,yahoo,digits_and_letters,no
+True,46.0,False,46.0,failed,False,card,JCB 16 digit,Fountain Financial Inc.,com,yahoo,digits_and_letters,no
+True,47.0,False,47.0,failed,False,card,JCB 16 digit,Fountain Financial Inc.,com,yahoo,digits_and_letters,yes
+True,72.0,False,72.0,fulfilled,False,card,JCB 16 digit,Fountain Financial Inc.,com,yahoo,digits_and_letters,yes
+True,17.0,False,17.0,fulfilled,False,card,VISA 16 digit,c,info,other,only_letters,yes
+False,46.0,False,46.0,fulfilled,False,card,Voyager,Grand Credit Corporation,com,gmail,only_letters,yes
+False,42.0,False,42.0,fulfilled,False,card,VISA 16 digit,Bulwark Trust Corp.,com,gmail,only_letters,yes
+False,36.0,False,36.0,failed,False,card,JCB 16 digit,Grand Credit Corporation,com,gmail,only_letters,yes
+False,10.0,True,10.0,fulfilled,False,card,JCB 16 digit,Grand Credit Corporation,com,gmail,only_letters,yes
+False,10.0,False,10.0,fulfilled,False,card,JCB 16 digit,Grand Credit Corporation,com,gmail,only_letters,yes
+False,30.0,False,30.0,fulfilled,False,card,VISA 13 digit,Citizens First Banks,info,other,digits_and_letters,yes
+True,,,,,False,card,Mastercard,Grand Credit Corporation,weird,weird,only_letters,unknown
+False,42.0,False,42.0,fulfilled,False,card,VISA 13 digit,Her Majesty Trust,com,hotmail,only_letters,unknown
+False,21.0,False,21.0,fulfilled,False,card,JCB 16 digit,Rose Bancshares,org,other,only_letters,yes
+False,16.0,False,16.0,fulfilled,False,card,JCB 16 digit,Rose Bancshares,org,other,only_letters,yes
+False,39.0,False,39.0,fulfilled,False,paypal,Voyager,Grand Credit Corporation,org,other,only_letters,no
+False,22.0,True,22.0,fulfilled,False,paypal,Voyager,Grand Credit Corporation,org,other,only_letters,yes
+False,22.0,False,22.0,fulfilled,False,card,JCB 16 digit,Rose Bancshares,org,other,only_letters,yes
+False,16.0,False,16.0,pending,False,card,JCB 15 digit,Fountain Financial Inc.,com,gmail,only_letters,yes
+False,45.0,False,45.0,fulfilled,False,card,JCB 15 digit,Fountain Financial Inc.,com,gmail,only_letters,yes
+False,13.0,False,13.0,fulfilled,False,card,JCB 15 digit,Fountain Financial Inc.,com,gmail,only_letters,yes
+True,74.0,False,74.0,fulfilled,False,card,VISA 13 digit,His Majesty Bank Corp.,info,other,digits_and_letters,yes
+True,67.0,False,67.0,fulfilled,False,card,Diners Club / Carte Blanche,Bulwark Trust Corp.,info,other,digits_and_letters,no
+False,42.0,False,42.0,fulfilled,False,apple pay,Voyager,Vertex Bancorp,com,yahoo,only_letters,yes
+False,43.0,True,43.0,fulfilled,False,card,Discover,Grand Credit Corporation,com,yahoo,only_letters,yes
+False,12.0,False,12.0,fulfilled,False,card,Maestro,His Majesty Bank Corp.,com,yahoo,only_letters,yes
+False,11.0,True,11.0,fulfilled,False,card,Maestro,His Majesty Bank Corp.,com,yahoo,only_letters,yes
+False,11.0,False,11.0,fulfilled,False,card,Discover,Grand Credit Corporation,com,yahoo,only_letters,yes
+False,39.0,False,39.0,fulfilled,False,paypal,Maestro,Fountain Financial Inc.,com,other,digits_and_letters,yes
+True,14.0,True,14.0,fulfilled,False,card,JCB 16 digit,r,com,gmail,only_letters,no
+True,14.0,False,14.0,fulfilled,False,card,VISA 16 digit,n,com,gmail,only_letters,no
+True,35.0,False,35.0,failed,False,card,JCB 16 digit,r,com,gmail,only_letters,no
+True,19.0,False,19.0,fulfilled,False,card,JCB 16 digit,r,com,gmail,only_letters,no
+False,,,,,False,card,VISA 16 digit,Grand Credit Corporation,com,other,digits_and_letters,unknown
+False,32.0,False,32.0,fulfilled,False,card,JCB 16 digit,Grand Credit Corporation,org,other,digits_and_letters,yes
+False,35.0,False,35.0,fulfilled,False,card,JCB 16 digit,Grand Credit Corporation,org,other,digits_and_letters,yes
+False,14.0,False,14.0,fulfilled,False,card,JCB 16 digit,Grand Credit Corporation,org,other,digits_and_letters,yes
+False,39.0,True,39.0,fulfilled,False,card,JCB 15 digit,His Majesty Bank Corp.,com,yahoo,only_letters,no
+False,39.0,False,39.0,fulfilled,False,card,VISA 16 digit,Solace Banks,com,yahoo,only_letters,no
+True,74.0,False,74.0,failed,True,bitcoin,VISA 16 digit,Fountain Financial Inc.,com,other,only_letters,yes
+True,46.0,False,46.0,failed,True,bitcoin,VISA 16 digit,Fountain Financial Inc.,com,other,only_letters,no
+True,71.0,True,71.0,fulfilled,True,bitcoin,VISA 16 digit,Fountain Financial Inc.,com,other,only_letters,yes
+True,45.0,False,45.0,failed,True,bitcoin,VISA 16 digit,Fountain Financial Inc.,com,other,only_letters,no
+True,32.0,False,32.0,fulfilled,True,bitcoin,VISA 16 digit,Fountain Financial Inc.,com,other,only_letters,yes
+True,44.0,False,44.0,fulfilled,True,bitcoin,VISA 16 digit,Fountain Financial Inc.,com,other,only_letters,unknown
+True,61.0,False,61.0,fulfilled,False,card,VISA 16 digit,His Majesty Bank Corp.,com,other,digits_and_letters,unknown
+True,40.0,False,40.0,fulfilled,False,card,Voyager,Solace Banks,com,other,digits_and_letters,unknown
+True,49.0,False,49.0,fulfilled,False,card,VISA 16 digit,His Majesty Bank Corp.,com,other,digits_and_letters,unknown
+True,46.0,False,46.0,failed,False,card,Diners Club / Carte Blanche,Solace Banks,com,other,digits_and_letters,unknown
+True,31.0,False,31.0,fulfilled,False,card,Diners Club / Carte Blanche,Solace Banks,com,other,digits_and_letters,unknown
+True,66.0,False,66.0,fulfilled,False,card,JCB 16 digit,Her Majesty Trust,com,yahoo,digits_and_letters,yes
+True,70.0,False,70.0,fulfilled,False,card,JCB 16 digit,Fountain Financial Inc.,com,yahoo,digits_and_letters,yes
+True,32.0,True,32.0,fulfilled,False,card,Maestro,Citizens First Banks,com,yahoo,digits_and_letters,yes
+True,32.0,False,32.0,fulfilled,False,card,VISA 16 digit,Citizens First Banks,com,yahoo,digits_and_letters,yes
+True,50.0,False,50.0,fulfilled,False,card,JCB 16 digit,Fountain Financial Inc.,com,yahoo,digits_and_letters,yes
+True,38.0,True,38.0,fulfilled,False,card,JCB 16 digit,Fountain Financial Inc.,com,yahoo,digits_and_letters,yes
+True,38.0,False,38.0,fulfilled,False,card,VISA 16 digit,Citizens First Banks,com,yahoo,digits_and_letters,yes
+True,72.0,False,72.0,fulfilled,False,card,American Express,Bastion Banks,com,yahoo,digits_and_letters,yes
+False,,,,,False,card,Voyager,His Majesty Bank Corp.,com,other,digits_and_letters,unknown
+False,43.0,False,43.0,pending,False,card,JCB 15 digit,Rose Bancshares,com,yahoo,digits_and_letters,unknown
+False,16.0,False,16.0,failed,False,card,JCB 15 digit,Rose Bancshares,com,yahoo,digits_and_letters,unknown
+False,12.0,False,12.0,fulfilled,False,paypal,Mastercard,Solace Banks,com,yahoo,only_letters,no
+False,28.0,False,28.0,fulfilled,False,bitcoin,Diners Club / Carte Blanche,Her Majesty Trust,com,yahoo,only_letters,yes
+False,17.0,False,17.0,fulfilled,False,bitcoin,Diners Club / Carte Blanche,Her Majesty Trust,com,yahoo,only_letters,yes
+False,,,,,,,,,com,other,digits_and_letters,unknown
+True,23.0,False,23.0,fulfilled,False,bitcoin,VISA 16 digit,B,biz,other,only_letters,yes
+True,11.0,False,11.0,fulfilled,False,bitcoin,VISA 16 digit,B,biz,other,only_letters,yes
+True,38.0,False,38.0,fulfilled,False,bitcoin,VISA 16 digit,B,biz,other,only_letters,yes
+True,26.0,False,26.0,fulfilled,False,bitcoin,VISA 16 digit,B,biz,other,only_letters,yes
+False,,,,,False,paypal,Mastercard,Her Majesty Trust,net,other,digits_and_letters,unknown
+False,46.0,False,46.0,fulfilled,False,card,JCB 16 digit,Bulwark Trust Corp.,com,yahoo,only_letters,no
+False,24.0,False,24.0,fulfilled,False,card,JCB 16 digit,Bulwark Trust Corp.,com,yahoo,only_letters,no
+False,39.0,True,39.0,pending,False,card,JCB 16 digit,Bulwark Trust Corp.,com,yahoo,only_letters,no
+False,39.0,True,39.0,pending,False,card,JCB 16 digit,Bulwark Trust Corp.,com,yahoo,only_letters,no
+False,39.0,False,39.0,pending,False,card,JCB 16 digit,Bulwark Trust Corp.,com,yahoo,only_letters,no
+False,49.0,False,49.0,fulfilled,False,card,JCB 16 digit,Bulwark Trust Corp.,com,yahoo,only_letters,yes
+True,47.0,False,47.0,fulfilled,False,apple pay,Voyager,Fountain Financial Inc.,com,hotmail,digits_and_letters,yes
+False,11.0,False,11.0,fulfilled,False,paypal,JCB 16 digit,Her Majesty Trust,com,hotmail,digits_and_letters,yes
+False,47.0,True,47.0,failed,False,paypal,JCB 16 digit,Her Majesty Trust,com,hotmail,digits_and_letters,yes
+False,47.0,False,47.0,failed,False,paypal,JCB 16 digit,Her Majesty Trust,com,hotmail,digits_and_letters,yes
+False,24.0,False,24.0,fulfilled,False,paypal,JCB 16 digit,Her Majesty Trust,com,hotmail,digits_and_letters,yes
+False,48.0,False,48.0,fulfilled,False,paypal,JCB 16 digit,Her Majesty Trust,com,hotmail,digits_and_letters,yes
+False,33.0,False,33.0,fulfilled,False,card,Mastercard,Solace Banks,com,other,digits_and_letters,yes
+False,14.0,True,14.0,fulfilled,False,card,Diners Club / Carte Blanche,Citizens First Banks,com,yahoo,digits_and_letters,unknown
+False,14.0,True,14.0,fulfilled,False,card,JCB 15 digit,Bulwark Trust Corp.,com,yahoo,digits_and_letters,unknown
+False,14.0,True,14.0,fulfilled,False,card,JCB 15 digit,Bulwark Trust Corp.,com,yahoo,digits_and_letters,unknown
+False,14.0,False,14.0,fulfilled,False,card,JCB 15 digit,Bulwark Trust Corp.,com,yahoo,digits_and_letters,unknown
+True,,,,,,,,,com,gmail,digits_and_letters,unknown
+False,50.0,False,50.0,fulfilled,True,card,JCB 16 digit,Fountain Financial Inc.,com,other,only_letters,yes
+False,22.0,True,22.0,fulfilled,True,card,JCB 16 digit,Fountain Financial Inc.,com,other,only_letters,yes
+False,22.0,False,22.0,fulfilled,True,card,JCB 16 digit,Fountain Financial Inc.,com,other,only_letters,yes
+False,22.0,False,22.0,fulfilled,True,card,JCB 16 digit,Fountain Financial Inc.,com,other,only_letters,yes
+False,13.0,False,13.0,fulfilled,True,card,JCB 16 digit,Fountain Financial Inc.,com,other,only_letters,yes
+False,48.0,False,48.0,fulfilled,False,card,Mastercard,Bulwark Trust Corp.,biz,other,only_letters,no
+False,30.0,False,30.0,failed,False,card,Mastercard,Bulwark Trust Corp.,biz,other,only_letters,yes
+False,47.0,False,47.0,fulfilled,False,card,VISA 13 digit,Bulwark Trust Corp.,biz,other,only_letters,yes
+False,26.0,False,26.0,fulfilled,False,card,Mastercard,Bulwark Trust Corp.,biz,other,only_letters,no
+True,45.0,False,45.0,fulfilled,False,card,Maestro,e,com,other,only_letters,no
+True,39.0,False,39.0,fulfilled,False,card,Maestro,e,com,other,only_letters,yes
+True,11.0,False,11.0,fulfilled,False,card,Maestro,e,com,other,only_letters,yes
+False,,,,,,,,,biz,other,digits_and_letters,unknown
+False,22.0,False,22.0,fulfilled,False,card,Voyager,Bastion Banks,com,hotmail,only_letters,yes
+False,15.0,False,15.0,fulfilled,False,card,Diners Club / Carte Blanche,Fountain Financial Inc.,com,hotmail,only_letters,yes
+False,30.0,False,30.0,failed,False,card,Diners Club / Carte Blanche,Fountain Financial Inc.,com,hotmail,only_letters,yes
+False,19.0,False,19.0,failed,False,card,Voyager,Bastion Banks,com,hotmail,only_letters,yes
+False,,,,,,,,,com,other,digits_and_letters,unknown
+False,40.0,False,40.0,fulfilled,False,card,Maestro,Her Majesty Trust,com,hotmail,only_letters,yes
+False,12.0,False,12.0,fulfilled,False,card,Maestro,Her Majesty Trust,com,hotmail,only_letters,no
+False,35.0,False,35.0,fulfilled,False,card,Maestro,Her Majesty Trust,com,hotmail,only_letters,yes
+False,23.0,True,23.0,fulfilled,False,card,Maestro,Her Majesty Trust,com,hotmail,only_letters,yes
+False,23.0,False,23.0,fulfilled,False,card,Maestro,Her Majesty Trust,com,hotmail,only_letters,yes
+True,35.0,False,35.0,fulfilled,False,card,Voyager,Solace Banks,com,other,only_letters,yes
+True,15.0,False,15.0,fulfilled,False,card,Voyager,Solace Banks,com,other,only_letters,yes
+True,45.0,False,45.0,fulfilled,False,card,Voyager,Solace Banks,com,other,only_letters,yes
+True,13.0,False,13.0,fulfilled,False,paypal,Voyager,Fountain Financial Inc.,com,other,only_letters,no
+True,17.0,False,17.0,failed,False,paypal,Voyager,Fountain Financial Inc.,com,other,only_letters,yes
+False,33.0,True,33.0,fulfilled,False,card,Maestro,Vertex Bancorp,com,gmail,digits_and_letters,yes
+False,33.0,False,33.0,fulfilled,False,card,JCB 16 digit,Solace Banks,com,gmail,digits_and_letters,yes
+False,37.0,False,37.0,fulfilled,False,card,JCB 16 digit,Solace Banks,com,gmail,digits_and_letters,yes
+False,49.0,False,49.0,fulfilled,False,card,Maestro,Vertex Bancorp,com,gmail,digits_and_letters,no
+False,14.0,False,14.0,fulfilled,False,paypal,Maestro,Bulwark Trust Corp.,com,gmail,digits_and_letters,yes
+False,26.0,False,26.0,fulfilled,False,card,JCB 16 digit,Solace Banks,com,gmail,digits_and_letters,yes
+False,36.0,True,36.0,fulfilled,False,card,Diners Club / Carte Blanche,His Majesty Bank Corp.,com,yahoo,only_letters,unknown
+False,36.0,True,36.0,fulfilled,False,card,Diners Club / Carte Blanche,His Majesty Bank Corp.,com,yahoo,only_letters,unknown
+False,36.0,True,36.0,fulfilled,False,card,Diners Club / Carte Blanche,His Majesty Bank Corp.,com,yahoo,only_letters,unknown
+False,36.0,True,36.0,fulfilled,False,card,Diners Club / Carte Blanche,His Majesty Bank Corp.,com,yahoo,only_letters,unknown
+False,36.0,True,36.0,fulfilled,False,card,Diners Club / Carte Blanche,His Majesty Bank Corp.,com,yahoo,only_letters,unknown
+False,36.0,False,36.0,fulfilled,False,card,Diners Club / Carte Blanche,His Majesty Bank Corp.,com,yahoo,only_letters,unknown
+False,40.0,True,40.0,fulfilled,False,card,Diners Club / Carte Blanche,His Majesty Bank Corp.,com,yahoo,only_letters,unknown
+False,40.0,False,40.0,fulfilled,False,card,Diners Club / Carte Blanche,His Majesty Bank Corp.,com,yahoo,only_letters,unknown
+False,20.0,True,20.0,pending,False,card,Diners Club / Carte Blanche,His Majesty Bank Corp.,com,yahoo,only_letters,unknown
+False,20.0,True,20.0,pending,False,card,Diners Club / Carte Blanche,His Majesty Bank Corp.,com,yahoo,only_letters,unknown
+False,20.0,True,20.0,pending,False,card,Diners Club / Carte Blanche,His Majesty Bank Corp.,com,yahoo,only_letters,unknown
+False,20.0,True,20.0,pending,False,card,Diners Club / Carte Blanche,His Majesty Bank Corp.,com,yahoo,only_letters,unknown
+False,20.0,True,20.0,pending,False,card,Diners Club / Carte Blanche,His Majesty Bank Corp.,com,yahoo,only_letters,unknown
+False,20.0,True,20.0,pending,False,card,Diners Club / Carte Blanche,His Majesty Bank Corp.,com,yahoo,only_letters,unknown
+False,20.0,False,20.0,pending,False,card,Diners Club / Carte Blanche,His Majesty Bank Corp.,com,yahoo,only_letters,unknown
+True,49.0,False,49.0,fulfilled,False,card,JCB 16 digit,Fountain Financial Inc.,com,hotmail,only_letters,yes
+True,63.0,False,63.0,fulfilled,False,card,Diners Club / Carte Blanche,Vertex Bancorp,com,hotmail,only_letters,yes
+True,55.0,True,55.0,pending,False,card,Diners Club / Carte Blanche,Grand Credit Corporation,com,hotmail,only_letters,no
+True,62.0,True,62.0,fulfilled,True,card,VISA 13 digit,His Majesty Bank Corp.,com,hotmail,only_letters,yes
+True,62.0,False,62.0,fulfilled,True,card,VISA 13 digit,His Majesty Bank Corp.,com,hotmail,only_letters,yes
+True,73.0,False,73.0,fulfilled,True,card,VISA 13 digit,His Majesty Bank Corp.,com,hotmail,only_letters,no
+True,68.0,False,68.0,pending,True,card,VISA 13 digit,His Majesty Bank Corp.,com,hotmail,only_letters,yes
+False,34.0,False,34.0,fulfilled,False,card,Maestro,Grand Credit Corporation,com,gmail,only_letters,unknown
+False,47.0,False,47.0,fulfilled,False,bitcoin,Diners Club / Carte Blanche,His Majesty Bank Corp.,com,yahoo,only_letters,yes
+False,34.0,False,34.0,failed,False,card,VISA 13 digit,Rose Bancshares,com,yahoo,only_letters,yes
+False,43.0,True,43.0,fulfilled,False,card,VISA 13 digit,Rose Bancshares,com,yahoo,only_letters,yes
+False,43.0,False,43.0,fulfilled,False,card,VISA 13 digit,Rose Bancshares,com,yahoo,only_letters,yes
+False,50.0,False,50.0,fulfilled,False,card,VISA 13 digit,Rose Bancshares,com,yahoo,only_letters,unknown
+False,48.0,True,48.0,failed,False,card,VISA 16 digit,Her Majesty Trust,com,hotmail,digits_and_letters,yes
+False,48.0,True,48.0,failed,False,card,VISA 16 digit,Her Majesty Trust,com,hotmail,digits_and_letters,yes
+False,48.0,False,48.0,failed,False,card,VISA 16 digit,Her Majesty Trust,com,hotmail,digits_and_letters,yes
+False,29.0,False,29.0,fulfilled,False,card,VISA 16 digit,Her Majesty Trust,com,hotmail,digits_and_letters,unknown
+False,27.0,False,27.0,fulfilled,False,card,American Express,Citizens First Banks,org,other,digits_and_letters,no
+False,19.0,False,19.0,fulfilled,False,card,American Express,Citizens First Banks,org,other,digits_and_letters,yes
+False,37.0,False,37.0,fulfilled,False,card,Diners Club / Carte Blanche,Bastion Banks,org,other,digits_and_letters,yes
+False,25.0,False,25.0,fulfilled,False,card,Diners Club / Carte Blanche,Bastion Banks,org,other,digits_and_letters,no
+False,22.0,False,22.0,fulfilled,False,apple pay,VISA 13 digit,His Majesty Bank Corp.,org,other,digits_and_letters,yes
+False,,,,,,,,,com,hotmail,digits_and_letters,unknown
+False,,,,,,,,,com,other,digits_and_letters,unknown
+True,38.0,False,38.0,fulfilled,False,paypal,Mastercard,Bastion Banks,weird,weird,digits_and_letters,no
+True,11.0,False,11.0,fulfilled,False,card,VISA 13 digit,Bastion Banks,weird,weird,digits_and_letters,unknown
+True,45.0,True,45.0,fulfilled,False,card,Maestro,Rose Bancshares,weird,weird,digits_and_letters,yes
+True,45.0,False,45.0,fulfilled,False,card,VISA 13 digit,Bastion Banks,weird,weird,digits_and_letters,yes
+True,18.0,False,18.0,fulfilled,False,paypal,Mastercard,Bastion Banks,weird,weird,digits_and_letters,yes
+True,12.0,True,12.0,fulfilled,False,paypal,Mastercard,Bastion Banks,weird,weird,digits_and_letters,yes
+True,12.0,True,12.0,fulfilled,False,card,VISA 13 digit,Bastion Banks,weird,weird,digits_and_letters,yes
+True,12.0,True,12.0,fulfilled,False,card,VISA 13 digit,Bastion Banks,weird,weird,digits_and_letters,yes
+True,12.0,True,12.0,fulfilled,False,card,VISA 13 digit,Bastion Banks,weird,weird,digits_and_letters,yes
+True,12.0,False,12.0,fulfilled,False,card,VISA 13 digit,Bastion Banks,weird,weird,digits_and_letters,yes
+False,49.0,False,49.0,fulfilled,False,paypal,Diners Club / Carte Blanche,Citizens First Banks,net,other,only_letters,yes
+False,12.0,True,12.0,fulfilled,False,apple pay,American Express,Citizens First Banks,net,other,only_letters,yes
+False,12.0,False,12.0,fulfilled,False,paypal,Diners Club / Carte Blanche,Citizens First Banks,net,other,only_letters,yes
+False,22.0,True,22.0,pending,False,paypal,Diners Club / Carte Blanche,Citizens First Banks,net,other,only_letters,yes
+False,22.0,False,22.0,pending,False,apple pay,American Express,Citizens First Banks,net,other,only_letters,yes
+True,31.0,False,31.0,fulfilled,True,card,Maestro,e,biz,other,digits_and_letters,yes
+True,35.0,False,35.0,fulfilled,True,card,Maestro,e,biz,other,digits_and_letters,yes
+True,34.0,False,34.0,fulfilled,False,paypal,VISA 13 digit,B,biz,other,digits_and_letters,yes
+False,10.0,False,10.0,fulfilled,True,card,VISA 13 digit,Solace Banks,com,gmail,digits_and_letters,unknown
+False,35.0,True,35.0,fulfilled,True,card,VISA 13 digit,Solace Banks,com,gmail,digits_and_letters,unknown
+False,35.0,False,35.0,fulfilled,True,card,VISA 13 digit,Solace Banks,com,gmail,digits_and_letters,unknown
+False,44.0,True,44.0,fulfilled,True,card,VISA 13 digit,Solace Banks,com,gmail,digits_and_letters,unknown
+False,44.0,False,44.0,fulfilled,True,card,VISA 13 digit,Solace Banks,com,gmail,digits_and_letters,unknown
+True,47.0,False,47.0,fulfilled,False,card,Maestro,Vertex Bancorp,com,gmail,digits_and_letters,yes
+True,22.0,True,22.0,fulfilled,False,card,Maestro,Vertex Bancorp,com,gmail,digits_and_letters,yes
+True,22.0,False,22.0,fulfilled,False,card,Maestro,Vertex Bancorp,com,gmail,digits_and_letters,yes
+True,46.0,False,46.0,fulfilled,False,paypal,JCB 16 digit,Vertex Bancorp,com,gmail,digits_and_letters,yes
+True,46.0,False,46.0,fulfilled,False,card,Maestro,Vertex Bancorp,com,gmail,digits_and_letters,no
+True,34.0,False,34.0,fulfilled,False,card,Maestro,Vertex Bancorp,com,gmail,digits_and_letters,no
+False,28.0,True,28.0,failed,False,apple pay,Maestro,Grand Credit Corporation,com,gmail,digits_and_letters,yes
+False,28.0,False,28.0,failed,False,apple pay,Maestro,Grand Credit Corporation,com,gmail,digits_and_letters,yes
+False,44.0,False,44.0,fulfilled,False,apple pay,Maestro,Grand Credit Corporation,com,gmail,digits_and_letters,yes
+False,21.0,False,21.0,pending,False,apple pay,Maestro,Grand Credit Corporation,com,gmail,digits_and_letters,yes
+False,20.0,False,20.0,fulfilled,False,apple pay,Maestro,Grand Credit Corporation,com,gmail,digits_and_letters,yes
+False,39.0,False,39.0,fulfilled,False,apple pay,Maestro,Grand Credit Corporation,com,gmail,digits_and_letters,yes
+False,16.0,False,16.0,fulfilled,False,card,Discover,Grand Credit Corporation,com,other,digits_and_letters,yes
+False,15.0,False,15.0,failed,False,card,Mastercard,Rose Bancshares,com,other,only_letters,yes
+False,12.0,False,12.0,fulfilled,False,card,Mastercard,Rose Bancshares,com,other,only_letters,yes
+False,21.0,True,21.0,fulfilled,False,card,VISA 13 digit,Bulwark Trust Corp.,com,other,only_letters,yes
+False,21.0,False,21.0,fulfilled,False,card,Mastercard,Rose Bancshares,com,other,only_letters,yes
+False,14.0,True,14.0,fulfilled,False,card,VISA 13 digit,Bulwark Trust Corp.,com,other,only_letters,no
+False,33.0,True,33.0,fulfilled,True,card,Diners Club / Carte Blanche,Bulwark Trust Corp.,com,other,only_letters,no
+False,33.0,False,33.0,fulfilled,True,card,Diners Club / Carte Blanche,Bulwark Trust Corp.,com,other,only_letters,no
+True,30.0,False,30.0,fulfilled,False,card,VISA 16 digit,o,com,yahoo,digits_and_letters,no
+True,44.0,False,44.0,fulfilled,False,card,JCB 16 digit,Bastion Banks,com,other,digits_and_letters,no
+True,26.0,False,26.0,fulfilled,False,card,JCB 16 digit,Grand Credit Corporation,com,other,digits_and_letters,yes
+True,46.0,True,46.0,fulfilled,False,apple pay,VISA 16 digit,Her Majesty Trust,com,other,digits_and_letters,no
+True,46.0,False,46.0,fulfilled,False,card,JCB 16 digit,Bastion Banks,com,other,digits_and_letters,no
+True,36.0,False,36.0,fulfilled,False,card,JCB 16 digit,Grand Credit Corporation,com,other,digits_and_letters,no
+False,16.0,False,16.0,fulfilled,False,apple pay,American Express,Her Majesty Trust,net,other,digits_and_letters,yes
+False,47.0,True,47.0,fulfilled,False,apple pay,American Express,Her Majesty Trust,net,other,digits_and_letters,yes
+False,47.0,False,47.0,fulfilled,False,apple pay,American Express,Her Majesty Trust,net,other,digits_and_letters,yes
+True,31.0,False,31.0,failed,False,card,JCB 16 digit,His Majesty Bank Corp.,com,other,only_letters,yes
+True,61.0,False,61.0,fulfilled,False,card,JCB 16 digit,His Majesty Bank Corp.,com,other,only_letters,no
+True,34.0,False,34.0,fulfilled,False,card,JCB 16 digit,His Majesty Bank Corp.,com,other,only_letters,yes
+True,30.0,False,30.0,fulfilled,False,card,Voyager,B,biz,other,only_letters,no
+True,43.0,False,43.0,fulfilled,False,card,Voyager,x,biz,other,only_letters,yes
+True,14.0,True,14.0,fulfilled,False,card,Voyager,B,biz,other,only_letters,yes
+True,14.0,False,14.0,fulfilled,False,card,Voyager,x,biz,other,only_letters,yes
+True,21.0,False,21.0,fulfilled,False,card,Voyager,B,biz,other,only_letters,yes
+True,27.0,False,27.0,fulfilled,False,card,Discover,o,biz,other,only_letters,yes
+True,35.0,False,35.0,fulfilled,False,card,JCB 16 digit,Vertex Bancorp,com,gmail,digits_and_letters,yes
+True,13.0,False,13.0,fulfilled,False,card,JCB 16 digit,Fountain Financial Inc.,com,gmail,digits_and_letters,no
+True,46.0,False,46.0,fulfilled,False,card,JCB 16 digit,Fountain Financial Inc.,com,gmail,digits_and_letters,yes
+True,27.0,False,27.0,fulfilled,False,card,JCB 16 digit,Vertex Bancorp,com,gmail,digits_and_letters,no
+True,49.0,False,49.0,failed,False,card,Maestro,Citizens First Banks,com,other,only_letters,yes
+True,54.0,True,54.0,fulfilled,False,card,American Express,Bulwark Trust Corp.,com,other,only_letters,no
+True,54.0,False,54.0,fulfilled,False,card,Voyager,Citizens First Banks,com,other,only_letters,no
+True,37.0,True,37.0,fulfilled,False,bitcoin,JCB 16 digit,Solace Banks,com,other,only_letters,no
+True,37.0,False,37.0,fulfilled,False,card,American Express,Bulwark Trust Corp.,com,other,only_letters,no
+True,43.0,False,43.0,fulfilled,False,bitcoin,JCB 16 digit,Solace Banks,com,other,only_letters,yes
+True,64.0,False,64.0,fulfilled,False,card,Voyager,Citizens First Banks,com,other,only_letters,no
+True,40.0,False,40.0,fulfilled,False,card,Voyager,Citizens First Banks,com,other,only_letters,yes
+False,23.0,False,23.0,fulfilled,False,paypal,JCB 15 digit,Bastion Banks,com,other,only_letters,yes
+False,32.0,False,32.0,fulfilled,False,card,VISA 13 digit,Vertex Bancorp,com,other,only_letters,no
+False,25.0,True,25.0,fulfilled,False,card,VISA 13 digit,Vertex Bancorp,com,other,only_letters,yes
+False,25.0,True,25.0,fulfilled,False,paypal,JCB 15 digit,Bastion Banks,com,other,only_letters,yes
+False,25.0,False,25.0,fulfilled,False,card,VISA 13 digit,Vertex Bancorp,com,other,only_letters,yes
+False,19.0,False,19.0,fulfilled,False,paypal,JCB 15 digit,Bastion Banks,com,other,only_letters,yes
+False,27.0,False,27.0,fulfilled,False,card,JCB 16 digit,His Majesty Bank Corp.,com,other,only_letters,no
