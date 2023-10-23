@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/maferreyra/Documents/EDVAI_DS_MLOps_Bootcamp/Trabajo_Final/Parte_A/mlruns/244941314405736838/e501db936879465faa16dcae3a56bc12/artifacts
+end_time: 1687291880658
+entry_point_name: ''
+experiment_id: '244941314405736838'
+lifecycle_stage: active
+run_id: e501db936879465faa16dcae3a56bc12
+run_name: caring-sponge-703
+run_uuid: e501db936879465faa16dcae3a56bc12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687279218963
+status: 3
+tags: []
+user_id: maferreyra
